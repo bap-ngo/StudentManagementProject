@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentManagementRepositories/1.0.0": {
+        "dependencies": {
+          "StudentManagementObject": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagementRepositories.dll": {}
+        }
+      },
+      "StudentManagementObject/1.0.0": {
+        "runtime": {
+          "StudentManagementObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagementRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagementObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\bin\Debug\net6.0\StudentManagementObject.deps.json
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\bin\Debug\net6.0\StudentManagementObject.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\bin\Debug\net6.0\StudentManagementObject.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.AssemblyInfoInputs.cache
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.AssemblyInfo.cs
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.csproj.CoreCompileInputs.cache
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\refint\StudentManagementObject.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\StudentManagementObject.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementObject\obj\Debug\net6.0\ref\StudentManagementObject.dll

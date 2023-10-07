@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "StudentManagementObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StudentManagementObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagementObject.dll": {}
+        }
+      },
+      "StudentManagementRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "StudentManagementObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentManagementRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagementRepositories.dll": {}
+        }
+      },
+      "StudentManagementService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "StudentManagementObject": "1.0.0",
+          "StudentManagementRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentManagementService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagementService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagementObject/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagementObject/StudentManagementObject.csproj",
+      "msbuildProject": "../StudentManagementObject/StudentManagementObject.csproj"
+    },
+    "StudentManagementRepositories/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagementRepositories/StudentManagementRepositories.csproj",
+      "msbuildProject": "../StudentManagementRepositories/StudentManagementRepositories.csproj"
+    },
+    "StudentManagementService/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagementService/StudentManagementService.csproj",
+      "msbuildProject": "../StudentManagementService/StudentManagementService.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "StudentManagementObject >= 1.0.0",
+      "StudentManagementService >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ngokhang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementProject\\StudentManagementGUI.csproj",
+      "projectName": "StudentManagementGUI",
+      "projectPath": "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementProject\\StudentManagementGUI.csproj",
+      "packagesPath": "C:\\Users\\ngokhang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ngokhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementObject\\StudentManagementObject.csproj": {
+              "projectPath": "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementObject\\StudentManagementObject.csproj"
+            },
+            "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementService\\StudentManagementService.csproj": {
+              "projectPath": "C:\\Users\\ngokhang\\source\\repos\\StudentManagementProject\\StudentManagementService\\StudentManagementService.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementService.deps.json
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementService.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementService.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementObject.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementRepositories.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementObject.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\bin\Debug\net6.0\StudentManagementRepositories.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.csproj.AssemblyReference.cache
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.AssemblyInfoInputs.cache
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.AssemblyInfo.cs
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.csproj.CoreCompileInputs.cache
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.csproj.CopyComplete
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\refint\StudentManagementService.dll
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\StudentManagementService.pdb
+C:\Users\ngokhang\source\repos\StudentManagementProject\StudentManagementService\obj\Debug\net6.0\ref\StudentManagementService.dll
